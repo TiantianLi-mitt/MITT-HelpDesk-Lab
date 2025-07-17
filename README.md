@@ -1,6 +1,6 @@
 # Lesson 2: Ticket System Research & Creating your own "Help Desk"
 ## Part 1: Freshworks Account Creation & User Setup
-### Step 2．
+### Step 2
 <img width="1531" height="798" alt="image" src="https://github.com/user-attachments/assets/fa880ea6-0f9b-4a9b-a644-a2c472010621" /> 
 <img width="1360" height="713" alt="image" src="https://github.com/user-attachments/assets/fc903f70-bd37-4121-b813-ff45efc2e060" />
 ### Step 3
@@ -20,10 +20,10 @@
 ### Part 3: Test Automated Responses
 ### Step 1
 <img width="1374" height="748" alt="image" src="https://github.com/user-attachments/assets/11154271-3b07-4b1d-af0e-ac3e59620964" />
-Step 3
+### Step 3
 <img width="1369" height="748" alt="image" src="https://github.com/user-attachments/assets/9cb77f0d-6324-4abe-a0c8-f01ad9b7ce26" />
-Step 4
+### Step 4
 <img width="1365" height="749" alt="image" src="https://github.com/user-attachments/assets/0c6851c5-fab6-4b2e-9e3f-b56505678f1a" />
-Step 5
+### Step 5
 <img width="1368" height="637" alt="image" src="https://github.com/user-attachments/assets/2c970be3-bdef-432f-8e8e-36dd37fe8725" />
 <img width="1371" height="656" alt="image" src="https://github.com/user-attachments/assets/9b2377cc-d5c5-4689-b948-2cf6a1614f3c" />
