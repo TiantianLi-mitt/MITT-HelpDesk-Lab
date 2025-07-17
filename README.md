@@ -19,4 +19,11 @@
 <img width="1371" height="749" alt="image" src="https://github.com/user-attachments/assets/dbccef2e-cc73-4b68-aa34-3d9d94ae6b16" />
 ### Part 3: Test Automated Responses
 ### Step 1
-
+<img width="1374" height="748" alt="image" src="https://github.com/user-attachments/assets/11154271-3b07-4b1d-af0e-ac3e59620964" />
+Step 3
+<img width="1369" height="748" alt="image" src="https://github.com/user-attachments/assets/9cb77f0d-6324-4abe-a0c8-f01ad9b7ce26" />
+Step 4
+<img width="1365" height="749" alt="image" src="https://github.com/user-attachments/assets/0c6851c5-fab6-4b2e-9e3f-b56505678f1a" />
+Step 5
+<img width="1368" height="637" alt="image" src="https://github.com/user-attachments/assets/2c970be3-bdef-432f-8e8e-36dd37fe8725" />
+<img width="1371" height="656" alt="image" src="https://github.com/user-attachments/assets/9b2377cc-d5c5-4689-b948-2cf6a1614f3c" />
